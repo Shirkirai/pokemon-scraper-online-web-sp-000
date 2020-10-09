@@ -15,4 +15,7 @@ class Pokemon
   def self.save(name, type, db)
     #binding.pry
   end
+
+  def self.find 
+  end
 end
