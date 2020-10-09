@@ -16,6 +16,6 @@ class Pokemon
     #binding.pry
   end
 
-  def self.find 
+  def self.find
   end
 end
